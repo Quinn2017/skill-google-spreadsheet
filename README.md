@@ -1,18 +1,19 @@
-# An Inventory_Skill (Test)
-
-This skill is in testing phase. 
+# Write to Google-Spreadsheets Skill
+This Mycroft skill is still a work in progress. It is meant to allow you to create and dictate to your Google Spreadsheet using Pygsheets.
 
 ## Synopsis:
-You can give command to create and add information to a Google Spreadsheet.
+At the moment, you can give command to add information to a Google Spreadsheet. You must setup oAuth2 credentials. A guide on doing so will follow. 
+Most of the information can be found on ReadTheDoc.io for Pygsheets. 
+http://pygsheets.readthedocs.io/en/latest/authorizing.html
 
 ## CURRENT STATE:
-It's in the initial testing phase. 
+It works, but more features need to be added. 
 
 ## INSTALLATION:
-Not applicable
+Instructions to follow. 
 
 ## USAGE:
-Not applicable
+Can be used to create lists for inventory count or libraries. 
 
 ## ISSUES / TODO:
-Not applicable
+Many things. Would welcome any assistance. 
